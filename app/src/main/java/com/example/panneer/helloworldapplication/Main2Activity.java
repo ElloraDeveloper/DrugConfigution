@@ -10,5 +10,5 @@ public class Main2Activity extends Fragment{
   
   //Merged to Master File.....
     //Merging the branch 2 File....
-    //Direct Merging Check up..
+    //Direct Merging Check up.. Branch 2 is Merged
 }
