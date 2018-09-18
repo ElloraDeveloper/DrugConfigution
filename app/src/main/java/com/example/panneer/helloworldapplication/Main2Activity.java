@@ -7,4 +7,6 @@ import android.support.v4.app.Fragment;
  */
 
 public class Main2Activity extends Fragment{
+  
+  //Merged to Master File.....
 }
